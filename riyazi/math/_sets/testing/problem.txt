@@ -1,0 +1,19 @@
+1.) finite
+2.) infinite
+3.) empty 
+4.) equivalent
+5.) singleton
+6.) power
+7.) subset 
+8.) super 
+9.) universal 
+10) union 
+11.) intersection 
+12.) complement of sets 
+13.) difference of sets
+14.) equal 
+15.) intervals ofsubsets 
+16.) Difference of sets
+17.)Difference
+18.)Symmetric difference
+
