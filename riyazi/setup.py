@@ -1,3 +1,6 @@
+
+
+
 """
 from distutils.core import setup
 
@@ -12,6 +15,7 @@ setup(
 )
 """
 
+"""
 from setuptools import setup, find_packages
 
 setup(
@@ -28,3 +32,4 @@ setup(
         ],
     },
 )
+"""
