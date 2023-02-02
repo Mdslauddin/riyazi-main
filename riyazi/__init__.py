@@ -7,6 +7,11 @@ from .version import __version__ , __author__
 from . math import*
 from . import math 
 
+# constants module Import 
+
+from .constants import*
+from .import constants
+
 
 
 
