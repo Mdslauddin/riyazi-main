@@ -2,7 +2,7 @@
 __all__ = ['pi','degree','e','tue','eta','phi','euler','catalan','apery','khinchin','glaisher',
 'mertens','twinprime','yotta','zetta','exa','peta','tera','giga','mega','kilo','hecto','deka',
 'deci','centi','milli','micro','nano','pico','femto','atto','zepto','yocto',
-'kibi','mebi','gebi','tebi','pebi','exbi','zebi','yobi','sqrt2','sqrt3','sqrt5','silver_ration',
+'kibi','mebi','gibi','tebi','pebi','exbi','zebi','yobi','sqrt2','sqrt3','sqrt5','silver_ration',
 'cbrt2','cbrt3','supergolden_ratio','imag','chl','kepler_Bouwkamp','wallis','ln2',
 'lemniscate','Euler_constant','Erdos_Borwein','omega','laplace_limit','ramanujan_solden',
 'Gauss','gauss','second_hermit','liouviles','Fcp','ramanujan_constant','Glaisher_Kinkelin',
