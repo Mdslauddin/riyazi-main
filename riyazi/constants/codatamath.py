@@ -8,7 +8,7 @@ __all__ = ['pi','degree','e','tue','eta','phi','euler','catalan','apery','khinch
 'Gauss','gauss','second_hermit','liouviles','Fcp','ramanujan_constant','Glaisher_Kinkelin',
 'dottie_number','Meissel_Mertens','universal_parabolic','cahens','Gelfonds_consant',
 'Gelfond_Schneider','Second_Favard','Golden_angle','Sierpinskis','Levys1','Levys2',
-'Copeland_Erdos','Mills','Gompertz','Van_der_Pauw','Magic_angle','Artins','Porters','Lochs ',
+'Copeland_Erdos','Mills','Gompertz','Van_der_Pauw','Magic_angle','Artins','Porters','Lochs',
 'DeViccis_tesseract','Liebs_square_ice','Nivens','Stephens','Rps','RFc','Feigenbaum' ,
 'Chaitins' ,'Robbins','Weierstrass', 'Fransen_Robinson' , 'Feigenbaum_alpha' ,'Sdbr',
 'ETF', 'Conways','HSM','Backhouses' ,'Viswanath' ,'Komornik_Loreti'  ,'Embree_Trefethen',
