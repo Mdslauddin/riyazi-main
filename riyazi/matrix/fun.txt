@@ -1,0 +1,10 @@
+# functions that are methods
+__all__ = [
+    'all', 'alltrue', 'amax', 'amin', 'any', 'argmax',
+    'argmin', 'argpartition', 'argsort', 'around', 'choose', 'clip',
+    'compress', 'cumprod', 'cumproduct', 'cumsum', 'diagonal', 'mean',
+    'ndim', 'nonzero', 'partition', 'prod', 'product', 'ptp', 'put',
+    'ravel', 'repeat', 'reshape', 'resize', 'round_',
+    'searchsorted', 'shape', 'size', 'sometrue', 'sort', 'squeeze',
+    'std', 'sum', 'swapaxes', 'take', 'trace', 'transpose', 'var',
+]
